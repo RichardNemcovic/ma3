@@ -34,3 +34,5 @@ dependencies:
       - litellm
       - pandas
       - requests
+      - pyowm
+      - streamlit
